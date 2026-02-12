@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hey! I'm Ranit Pal (@ranitpal)
+# 👋 Hey! I'm Ranit Pal (@ranitpal77)
 
 Welcome to my GitHub - The space where I turn ideas into clean, functional projects.
 

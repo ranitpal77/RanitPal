@@ -62,6 +62,6 @@ Feel free to browse my repositories - and drop a ⭐ if you enjoy something!
 
 🔗 **[ranitpal.github.io](https://ranitpal.github.io/)**
 
-🔗 **[Linkedin](https://www.linkedin.com/in/ranit-pal-2768402a9/)**
+🔗 **[Linkedin](https://www.linkedin.com/in/ranit-pal/)**
 
 ---

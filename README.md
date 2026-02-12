@@ -17,7 +17,7 @@ I'm constantly learning, creating, and refining - and you're welcome to join my 
 * 🧠 CLI utilities and small programs
 * ✏️ UI/UX concepts, digital visuals, and simple design ideas
 
-👉 Want to see my projects? Visit **[My Repositories](https://github.com/RanitPal?tab=repositories)**
+👉 Want to see my projects? Visit **[My Repositories](https://github.com/ranitpal77?tab=repositories)**
 
 ---
 
